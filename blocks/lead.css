@@ -1,0 +1,33 @@
+.lead {
+    display: flex;
+    font-family: "Inter"; 
+    max-width: 984px;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.lead__title{
+    font-family: "Inter";
+    font-size: 60px;
+    max-width:720px;
+    Height: 72px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.lead__subtitle{
+    font-family: "Inter";
+    font-size: 30px;
+    max-width: 720px;
+    height: 72px;
+    text-align: center;
+}
+.lead__image{
+    text-align: center;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1280px) {
+
+}
